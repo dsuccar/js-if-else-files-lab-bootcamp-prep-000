@@ -1,5 +1,4 @@
-console.log(name)
 
 var index = require("./index.js")
 
-consol.log(index.name)
+console.log(index.name)
